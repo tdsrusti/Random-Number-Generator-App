@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spoo</string>
+    <string-array name="dice_count_array">
+        <item>1 Die</item>
+        <item>2 Dice</item>
+    </string-array>
+</resources>
